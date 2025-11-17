@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # linsecure.sh - Linux System Hardening Script
-# Author: Yodakblues
+# Author: Kofi.O.Ankomah
 # Date: $(20-05-2025)
 # Description: Applies basic Linux security hardening steps
 
